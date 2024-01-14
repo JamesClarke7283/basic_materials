@@ -18,6 +18,7 @@ local materials = {
 
 if minetest.get_modpath("moreores") then
 	materials.silver_ingot = "moreores:silver_ingot"
+	materials.tin_ingot = "moreores:tin_ingot"
 end
 
 if minetest.get_modpath("technic") then
